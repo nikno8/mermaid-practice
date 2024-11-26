@@ -66,6 +66,7 @@ journey
 ---
 
 ## Квадрант-граф (Priority Matrix)
+
 ```mermaid
 quadrantChart
 title Приоритеты разработки функционала системы
