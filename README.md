@@ -67,7 +67,7 @@ journey
 
 ---
 
-## Квадрант-граф (Priority Matrix)
+## (Priority Matrix)
 
 ```mermaid
 pie
