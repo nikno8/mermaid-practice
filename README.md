@@ -128,7 +128,9 @@ gitGraph
     commit id: "Уведомления студентов"
     checkout develop
     merge feature/notifications
-    commit id: "Подготовка к релизу"
+    checkout main
+    merge develop
+    commit id: "Релиз проекта"
 ```
 ### Описание графа
 - **Инициализация проекта:** Создание базовой структуры проекта.
